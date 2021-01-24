@@ -1,4 +1,4 @@
-﻿# Web-Scraping-Using-JSoup
+﻿# Web Scraping Using JSoup
 
 This repository contains scripts to scrape mobile products from 5 different websites using Java's scraping library, JSoup.
 
